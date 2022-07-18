@@ -1,6 +1,6 @@
-# Título del Proyecto
+# CIA WEB SCRAPING 
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Scraping history files revealed by the cia, from their official website. 
 
 ## Comenzando 🚀
 
@@ -101,6 +101,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * etc.
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
